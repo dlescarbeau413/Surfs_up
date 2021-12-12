@@ -14,7 +14,7 @@ If we were to look at just the two data points we collected in the first two del
 
 Additional information that we could look into would be looking into the temperature preceding and following the months collected. This is exactly what I did in order to come up with my recommendation to open the shop. All I did was refactor the code to gather the temperature summary for July, November, January and February months. The reason for gathering more of the months following December was because information on the slower months would be more of a determining factor because that’s when you would expect it to be the slower part of the year. As for in June and July you could get an idea of what the business months of august and September would be weatherwise. 
 Another way I was able to refactor the code was by determining the precipitation amounts for the six month stretch between June and December and even after December to get an understanding of what other weather factors could determine the business outcomes. As far as precipitation, we can see that July is by far the month where the most rain has occurred. Other than that, we can see that the following months have moderate to very little rain fall. As you can see in the following images, the month with the most rain following June is the month of November.  
-![](Images/June%20precp.PNG)![](Images/July%20precp.PNG)![](Images/Aug%20precp.PNG)![](Images/Sept%20prep.PNG)![](Images/Oct%20precp.PNG)![](Images/Nov%20Precp.PNG)![](Images/Dec%20Prcp.PNG)
+![](Images/June%20precp.PNG) ![](Images/July%20precp.PNG) ![](Images/Aug%20precp.PNG) ![](Images/Sept%20prep.PNG) ![](Images/Oct%20precp.PNG) ![](Images/Nov%20Precp.PNG) ![](Images/Dec%20Prcp.PNG)
 
 
 
